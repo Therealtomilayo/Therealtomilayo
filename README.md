@@ -11,8 +11,6 @@ Building modern web apps, experimenting with Web3, and solving real-world proble
 
 ---
 
-# Animated Typing Intro
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+React+%7C+MySQL;Exploring+Web3;Building+Projects+Daily" />
 </p>
