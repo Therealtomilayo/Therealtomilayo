@@ -34,7 +34,7 @@ Building modern web apps, experimenting with Web3, and solving real-world proble
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/alabi-oluwatomilayo-victor-559a2b299"/>
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
